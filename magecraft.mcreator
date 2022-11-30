@@ -1,0 +1,444 @@
+{
+  "mod_elements": [
+    {
+      "name": "Mana",
+      "type": "overlay",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mana"
+    },
+    {
+      "name": "Manaball1",
+      "type": "overlay",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "manaball_1"
+    },
+    {
+      "name": "Manaball2",
+      "type": "overlay",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "manaball_2"
+    },
+    {
+      "name": "Manaball3",
+      "type": "overlay",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "manaball_3"
+    },
+    {
+      "name": "Manaball4",
+      "type": "overlay",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "manaball_4"
+    },
+    {
+      "name": "Manaball5",
+      "type": "overlay",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "manaball_5"
+    },
+    {
+      "name": "ManaBarCondition1",
+      "type": "procedure",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mana_bar_condition_1",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ManaBarCondition2",
+      "type": "procedure",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mana_bar_condition_2",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ManaBarCondition3",
+      "type": "procedure",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mana_bar_condition_3",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ManaBarCondition4",
+      "type": "procedure",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mana_bar_condition_4",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ManaBarCondition5",
+      "type": "procedure",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mana_bar_condition_5",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ManaBarCondition6",
+      "type": "procedure",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mana_bar_condition_6",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ManaBarCondition7",
+      "type": "procedure",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mana_bar_condition_7",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ManaBarCondition8",
+      "type": "procedure",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mana_bar_condition_8",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ManaBarCondition9",
+      "type": "procedure",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mana_bar_condition_9",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ManaBarCondition10",
+      "type": "procedure",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mana_bar_condition_10",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ManaBall6",
+      "type": "overlay",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mana_ball_6"
+    },
+    {
+      "name": "ManaBall7",
+      "type": "overlay",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mana_ball_7"
+    },
+    {
+      "name": "ManaBall8",
+      "type": "overlay",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mana_ball_8"
+    },
+    {
+      "name": "ManaBall9",
+      "type": "overlay",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mana_ball_9"
+    },
+    {
+      "name": "ManaBall10",
+      "type": "overlay",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mana_ball_10"
+    },
+    {
+      "name": "ManaRegen",
+      "type": "procedure",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mana_regen",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "WoodenStaff",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_staff"
+    },
+    {
+      "name": "Manaicon",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "manaicon"
+    },
+    {
+      "name": "Magic",
+      "type": "tab",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magic"
+    },
+    {
+      "name": "WoodenStaffRangeAttack",
+      "type": "procedure",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_staff_range_attack",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "WoodenStaffPush",
+      "type": "procedure",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_staff_push",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "WoodenStaffLeap",
+      "type": "procedure",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_staff_leap",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bandslot",
+      "type": "gui",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "inventory"
+    },
+    {
+      "name": "InventorySOnKeyPressed",
+      "type": "procedure",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "inventory_s_on_key_pressed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "InventoryS",
+      "type": "keybind",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "inventory_s"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "Mana",
+      "type": "number",
+      "scope": "player_lifetime",
+      "value": "0.0"
+    }
+  ],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabmagic": "Magic",
+      "key.magecraft.inventory_s": "Inventory",
+      "item.magecraft.wooden_staff": "Wooden Staff",
+      "item.magecraft.manaicon": "Mana icon"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "magecraft",
+    "modName": "MageCraft",
+    "version": "1.0.0",
+    "author": "bengi, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "just_enough_items"
+    ],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.magecraft",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

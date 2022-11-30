@@ -1,0 +1,7 @@
+{
+  "parent": "magecraft:custom/staff",
+  "textures": {
+    "0": "magecraft:blocks/wood_staff",
+    "particle": "magecraft:items/wood_staff_icon"
+  }
+}
